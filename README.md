@@ -6,7 +6,7 @@ This is a pretty basic Python client to connect and interact with the [Kairos AP
 
 ### Prerequisites
 1. Follow the instructions on [Kairos API - Getting Started](https://kairos-api.readme.io/reference/getting-started) guide
-2. [Python 3](https://go.dev/doc/install) _(version > 3.9.x)_ installed
+2. [Python 3](https://www.python.org/) _(version > 3.9.x)_ installed
 3. [Pip](https://pypi.org/project/pip/) installed
 3. Following environment variables setup on your device:
     - RSA_PRIVATE_KEY: Your private key generated as part of the application process.
